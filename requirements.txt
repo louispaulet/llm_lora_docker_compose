@@ -1,0 +1,7 @@
+peft
+bitsandbytes
+transformers
+trl
+accelerate
+jupyter
+scipy
